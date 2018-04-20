@@ -1,0 +1,125 @@
+{
+  "settings": {
+    "name": "DCA",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "versionFirst": "4.0.17",
+    "uniqCompNum": 16,
+    "versionPublish": "4.0.17",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/porto-header-1600x683.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#c1c1c1",
+            "overlayOpacity": "0.6"
+          },
+          "title": "Turismo no Porto<br>",
+          "text": "<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://www.youtube.com/watch?v=QvqP_cLJ4O4&amp;t=7s\" data-toolbar=\"-mbrBtnMove\">Reportagem</a>   ",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-4",
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "font-size": "84px",
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-size": "17px"
+            },
+            "P": {
+              "color": "#000000",
+              "text-align": "center",
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "text": "<p>Depois de ser eleito várias vezes como Melhor Destino Europeu, o Porto tem vindo a receber cada vez mais turistas ao longo do tempo.</p><p><br></p><p> \n</p><p>Em 2017, a cidade recebeu milhões de turistas, uma cidade conhecida mundialmente pelos seus vinhos, a arquitetura contemporânea e antiga e o seu centro histórico, classificado pela UNESCO como Património Mundial. \n</p><p>A sua gastronomia também é adorada pelos turistas, a francesinha e as tripas à moda do Porto não podem faltar numa visita à cidade Invicta. \n</p><p>Torre dos Clérigos, Fundação de Serralves, Casa da Música, Teatro Nacional de São João e Metro do Porto são os principais pontos de interesse da cidade, tal como as elegantes pontes sobre o rio Douro e a famosa Livraria Lello. A simpatia dos portugueses também os motiva a escolherem o Porto, “simpáticos e amigáveis” é como os visitantes classificam o povo português.</p><p><br></p><p>\n</p><p>Com todos estes fatores favoráveis à cidade, os turistas visitam e voltam à Invicta, regressando ao seu país com a melhor impressão da bela cidade do Porto.\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-f",
+          "_styles": {
+            "P": {
+              "font-size": "18px",
+              "text-align": "center"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Site Maker Description",
+        "title": "reportagem",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-a"
+        }
+      ]
+    }
+  }
+}
